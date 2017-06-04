@@ -1,1 +1,4 @@
-# Deep_Learning_Course
+Deep Learning Techniques and Applications
+Graduate course
+Ge Li
+Peking University
