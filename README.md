@@ -1,4 +1,4 @@
-Deep Learning Techniques and Applications
-Graduate course
-Ge Li
-Peking University
+"Deep Learning Techniques and Applications"
+,Graduate course
+,Ge Li
+,Peking University
